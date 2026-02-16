@@ -32,5 +32,3 @@ source ~/.bashrc
 A Disclaimer 
 This tool is for educational and auditing purposes only. Always check your files on VirusTotal for 100% certainty.
 
-Developed with by King Pipider 
-
